@@ -30,9 +30,6 @@ Clase con atributos `temperatura`, `numeroDeMoles` y `volumen` (litros). Incluye
 ### Ejer10 — Clase `Movil`
 Clase con atributos `velocidadInicial`, `tiempo` y `aceleración`. Incluye un método para calcular el **espacio recorrido** por un móvil.
 
-> 📝 *Los ejercicios Ejer03 y Ejer04 incluyen las clases `Producto` y `Trabajador` respectivamente (ver detalle abajo).*
-
-
 ---
 
 ## 🧠 Conceptos de POO aplicados
